@@ -47,3 +47,5 @@ build
 # gradle-teamcity-plugin
 data/
 servers/
+
+azuredeploy.parameters.json
